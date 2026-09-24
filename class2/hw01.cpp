@@ -7,7 +7,7 @@ int main()
      cin>>a>>b;
     cout<<a+b<<endl;
 
-    system("space");
+    system("pause");
 
     return 0;
 }
